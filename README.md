@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ```
 STEP2_separation
@@ -139,3 +140,8 @@ STEP2_separation
    └─ separation_go_to.cpython-39.pyc
 
 ```
+=======
+# tp-project-step2
+Separation source code
+Using NUSSL Python Library
+>>>>>>> ba597328618f3b5c2aaed8ea8c57977dbbdaaeae
